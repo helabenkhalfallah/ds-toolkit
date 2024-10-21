@@ -11,28 +11,28 @@ This library provides a set of well-tested and efficient data structures for use
 
 ## Data Structures Included
 
-1. Basic:
+1️⃣ **Basic:**
 - Linked List (Singly, Doubly, Circular)
 - Stack
 - Queue (FIFO, Priority Queue)
 
-2. Trees:
+2️⃣ **Trees:**
 - Binary Search Tree
 - AVL Tree
 - Red-Black Tree
 - B-Tree
 - Trie
 
-3. Graphs:
+3️⃣ **Graphs:**
 - Adjacency list
 
-4. Advanced:
+4️⃣ **Advanced:**
 - Heap (Min-Heap, Max-Heap)
 - Treap
 - LRU Cache
 - LFU Cache
 
-5. Probabilistic
+5️⃣ **Probabilistic**
 - Bloom Filter
 - Count-Min Sketch
 - HyperLogLog

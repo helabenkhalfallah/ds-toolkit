@@ -1,7 +1,7 @@
 [package]
-name = "ds-toolkit"
+name = "dsa-toolkit"
 version = "0.1.0"
-description = "A data structures library for JavaScript and TypeScript, with performance optimized by Rust and WebAssembly."
+description = "A data structures and algorithms library for JavaScript and TypeScript, with performance optimized by Rust and WebAssembly."
 authors = ["Hela Ben Khalfallah"]
 license = "MIT"
 edition = "2021"

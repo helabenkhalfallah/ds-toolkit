@@ -1,3 +1,3 @@
-# `@ds-toolkit/darwin-x64`
+# `@dsa-toolkit/darwin-x64`
 
-Prebuilt binary package for `ds-toolkit` on `darwin-x64`.
+Prebuilt binary package for `dsa-toolkit` on `darwin-x64`.

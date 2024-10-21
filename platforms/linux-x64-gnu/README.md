@@ -1,3 +1,3 @@
-# `@ds-toolkit/linux-x64-gnu`
+# `@dsa-toolkit/linux-x64-gnu`
 
-Prebuilt binary package for `ds-toolkit` on `linux-x64-gnu`.
+Prebuilt binary package for `dsa-toolkit` on `linux-x64-gnu`.

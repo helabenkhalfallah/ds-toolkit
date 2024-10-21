@@ -1,6 +1,6 @@
 # dsa-toolkit 🧰
 
-A data structures library for JavaScript and TypeScript, with performance optimized by Rust and WebAssembly.
+A data structures and algorithms library for JavaScript and TypeScript, with performance optimized by Rust and WebAssembly.
 
 This library provides a comprehensive set of data structures with improved performance, leveraging the efficiency of Rust 🚀 and seamlessly integrating into both JavaScript and TypeScript projects. 
 
@@ -40,6 +40,22 @@ It aims to be:
    - HyperLogLog
    - Skip List
 
+## Algorithms Included
+
+1️⃣ **Sorting:**
+   - Merge Sort
+   - Quick Sort
+   - Heap Sort
+   - Shell Sort
+
+2️⃣ **Graph Algorithms:**
+   - Topological Sort
+
+3️⃣ **Search:**
+   - Binary Search
+   - Depth-First Search (DFS)
+   - Breadth-First Search (BFS)
+
 ## Documentation 
 
 🚧 TODO
@@ -58,9 +74,9 @@ It aims to be:
 
 ## Contribution
 
-### Building ds-toolkit
+### Building dsa-toolkit
 
-Building ds-toolkit requires a [supported version of Node and Rust](https://github.com/neon-bindings/neon#platform-support).
+Building dsa-toolkit requires a [supported version of Node and Rust](https://github.com/neon-bindings/neon#platform-support).
 
 To run the build, run:
 
@@ -70,9 +86,9 @@ $ npm run build
 
 This command uses the [@neon-rs/cli](https://www.npmjs.com/package/@neon-rs/cli) utility to assemble the binary Node addon from the output of `cargo`.
 
-### Exploring ds-toolkit
+### Exploring dsa-toolkit
 
-After building ds-toolkit, you can explore its exports at the Node console:
+After building dsa-toolkit, you can explore its exports at the Node console:
 
 ```sh
 $ npm i
@@ -121,7 +137,7 @@ Runs the unit tests by calling `cargo test`. You can learn more about [adding te
 The directory structure of this project is:
 
 ```
-ds-toolkit/
+dsa-toolkit/
 ├── Cargo.toml
 ├── README.md
 ├── lib/
@@ -129,7 +145,7 @@ ds-toolkit/
 |   ├── index.mts
 |   └── index.cts
 ├── crates/
-|   └── ds-toolkit/
+|   └── dsa-toolkit/
 |       └── src/
 |           └── lib.rs
 ├── platforms/

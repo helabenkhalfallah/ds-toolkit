@@ -1,6 +1,6 @@
 {
-  "name": "@ds-toolkit/win32-x64-msvc",
-  "description": "Prebuilt binary package for `ds-toolkit` on `win32-x64-msvc`.",
+  "name": "@dsa-toolkit/win32-x64-msvc",
+  "description": "Prebuilt binary package for `dsa-toolkit` on `win32-x64-msvc`.",
   "version": "0.1.0",
   "os": [
     "win32"
@@ -23,11 +23,11 @@
   "author": "Hela Ben Khalfallah",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/helabenkhalfallah/ds-toolkit.git#main"
+    "url": "git+https://github.com/helabenkhalfallah/dsa-toolkit.git#main"
   },
   "bugs": {
-    "url": "https://github.com/helabenkhalfallah/ds-toolkit/issues"
+    "url": "https://github.com/helabenkhalfallah/dsa-toolkit/issues"
   },
-  "homepage": "https://github.com/helabenkhalfallah/ds-toolkit/tree/main#readme",
+  "homepage": "https://github.com/helabenkhalfallah/dsa-toolkit/tree/main#readme",
   "license": "MIT"
 }

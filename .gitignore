@@ -128,3 +128,15 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Neon
+target
+index.node
+**/node_modules
+**/.DS_Store
+lib
+cargo.log
+cross.log
+
+# IDE
+.idea

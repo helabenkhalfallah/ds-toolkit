@@ -1,0 +1,33 @@
+{
+  "name": "@ds-toolkit/darwin-arm64",
+  "description": "Prebuilt binary package for `ds-toolkit` on `darwin-arm64`.",
+  "version": "0.1.0",
+  "os": [
+    "darwin"
+  ],
+  "cpu": [
+    "arm64"
+  ],
+  "main": "index.node",
+  "files": [
+    "index.node"
+  ],
+  "neon": {
+    "type": "binary",
+    "rust": "aarch64-apple-darwin",
+    "node": "darwin-arm64",
+    "os": "darwin",
+    "arch": "arm64",
+    "abi": null
+  },
+  "author": "Hela Ben Khalfallah",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helabenkhalfallah/ds-toolkit.git#main"
+  },
+  "bugs": {
+    "url": "https://github.com/helabenkhalfallah/ds-toolkit/issues"
+  },
+  "homepage": "https://github.com/helabenkhalfallah/ds-toolkit/tree/main#readme",
+  "license": "MIT"
+}

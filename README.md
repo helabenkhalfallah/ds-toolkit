@@ -1,4 +1,4 @@
-# ds-toolkit 🧰
+# dsa-toolkit 🧰
 
 A data structures library for JavaScript and TypeScript, with performance optimized by Rust and WebAssembly.
 

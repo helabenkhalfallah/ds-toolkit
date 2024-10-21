@@ -1,4 +1,4 @@
-# ds-utils
+# ds-toolkit
 
 A comprehensive collection of data structures and algorithms implemented in TypeScript.
 
